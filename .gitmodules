@@ -4,3 +4,6 @@
 [submodule "Console-Chat-using-Sockets"]
 	path = Console-Chat-using-Sockets
 	url = https://github.com/IulianScoropad/Console-Chat-using-Sockets.git
+[submodule "Java-Native-Interface-Exercise"]
+	path = Java-Native-Interface-Exercise
+	url = https://github.com/IulianScoropad/Java-Native-Interface-Exercise.git
