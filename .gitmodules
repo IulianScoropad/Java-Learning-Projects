@@ -1,3 +1,6 @@
 [submodule "Community-News-Forum-with-SQLite"]
 	path = Community-News-Forum-with-SQLite
 	url = https://github.com/IulianScoropad/Community-News-Forum-with-SQLite.git
+[submodule "Console-Chat-using-Sockets"]
+	path = Console-Chat-using-Sockets
+	url = https://github.com/IulianScoropad/Console-Chat-using-Sockets.git
