@@ -7,3 +7,6 @@
 [submodule "Java-Native-Interface-Exercise"]
 	path = Java-Native-Interface-Exercise
 	url = https://github.com/IulianScoropad/Java-Native-Interface-Exercise.git
+[submodule "Java-Stream-Interface-Exercise"]
+	path = Java-Stream-Interface-Exercise
+	url = https://github.com/IulianScoropad/Java-Stream-Interface-Exercise.git
