@@ -13,3 +13,6 @@
 [submodule "LargestMiller-RabinPrimeCandidate"]
 	path = LargestMiller-RabinPrimeCandidate
 	url = https://github.com/IulianScoropad/LargestMiller-RabinPrimeCandidate.git
+[submodule "Medieval-Game"]
+	path = Medieval-Game
+	url = https://github.com/IulianScoropad/Medieval-Game.git
